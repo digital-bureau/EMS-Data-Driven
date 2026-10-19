@@ -1,0 +1,27 @@
+{
+  "updated": "2026-10-19",
+  "combined_approved_amount": 1799135490,
+  "combined_approved_ops": 3158074,
+  "distinct_units_both_years": 5717,
+  "complete_data": "All rows available via pagination and full-result CSV; Top5 preserved separately",
+  "files": {
+    "EMS_Payments_2568.csv": "f0e1a815335180e0fdde8bf015f52119e8941a3be2fce3487a4823e1fb401703",
+    "foreign.json": "62043a4f7c8a7094429e01266c845a0bbd10e9b373565245d52cb6fb8d4155ba",
+    "payments.json": "e458beea0da5ff2c6853a086a0c21eee63186aece19f50659792cc4554251ba2",
+    "README_TH.md": "664a606d40b4dc22efce0731df0b5166e5803c6b3b313645e5dd75113e9c0a9d",
+    "EMS_Payments_2569.csv": "012da312a958f039eaf8384d0871f60597bfb2882a15f3c7913931fcd28f918b",
+    "modules.js": "9d2e8270294b3806f2c678146f3ce091297c44818aca34593f35c6e4c05283e7",
+    "EMS_Unmatched_Locations.csv": "12b1e296bd4939268cf889d6d7e51bc6098d58405d22dc44a5b2bf829420db91",
+    "EMS_Executive_Brief.html": "5c31d7cb664205c32ff39d26731ac661231a21c00dd33f4ec359c73bc4637805",
+    "ems_data.json": "cf5fea5a30614e541bc0e1fa97274934dd7d3722fd7b6512529fd924de516ccd",
+    "EMS_Operations_Detail.csv": "c923bdb79af6a478dd69e978cf9c0d5fbd38666eabd37fd1938c55bdb6e20003",
+    "EMS_Foreign_Summary.csv": "3f95efd052ccd09127fc79787cca8ce96b72644e79931d503ece08dfda86a978",
+    "index.html": "f514ff991ed5194f81076d49e414508f5aa692708bd35fed25f4ceefe092abb0",
+    "complete.js": "0f624c04f1694f090c9b570afc7577442a42b31be4c04219f0cd4a678b982eab",
+    "app.js": "ce618724f8ee2783279cee09b51cc6c9ed58720e39ccc86bbc2a4c62135c1d12",
+    "Additional_Data_Audit.json": "cbad35b5c51af8cbea7f007dd1f99bffe7b7983af6ca8dd7b137fb5c715fff3f",
+    "EMS_Coverage_Province.csv": "d77bb255d9bba0fb084dce725e365176255565c72cdaf87f288f5364e43fe36d",
+    "Data_Audit.json": "b2a34fba6722450146bb4df1b9f345fa341f48ee54270c4dafd7ca922930044a",
+    "Spatial_Quality_Issues.csv": "c5f585930844b82a622178f857f5b6adf14fbc50cd2317872ea162421000c0e0"
+  }
+}
